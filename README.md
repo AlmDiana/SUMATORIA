@@ -1,1 +1,1 @@
-# Diana
+# Recopilación de ejercicios en clase
