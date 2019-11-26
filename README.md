@@ -1,1 +1,1 @@
-# Recopilación de ejercicios en clase
+# Sumatoria de números (Ejercicio1) 
